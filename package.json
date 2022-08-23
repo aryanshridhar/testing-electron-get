@@ -1,0 +1,13 @@
+{
+  "name": "testing-get",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Testing werid bug in probably @electron/get",
+  "main": "index.js",
+  "author": "aryanshridhar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@electron/get": "^2.0.0"
+  }
+}
